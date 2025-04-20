@@ -1,0 +1,1 @@
+print("IT sector for all ")
