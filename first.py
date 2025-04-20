@@ -1,1 +1,1 @@
-print("i am good ")
+print("Alhamdulillah")
