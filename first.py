@@ -1,1 +1,1 @@
-print("IT sector for all ")
+print("i am good ")
